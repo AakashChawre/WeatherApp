@@ -38,7 +38,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="16dp"
-        android:text="DESIGN  BY\nNeat Roots"
+        android:text="@string/design_by"
         android:textColor="@color/white"
         android:fontFamily="@font/merriweathersans_bold"
         android:textSize="12sp"
